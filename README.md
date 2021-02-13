@@ -1,6 +1,8 @@
 # futurerestore
 _It is a hacked up idevicerestore wrapper, which allows manually specifying SEP and Baseband for restoring._
 
+**ONLY USE THIS BRANCH IF YOU ARE NEEDING TO RESTORE AN A13 OR A14 DEVICE. IF YOU ARE WANTING TO RESTORE ANY OTHER DEVICES, USE [THIS BRANCH](https://github.com/marijuanARM/futurerestore), OR ELSE YOU WILL BOOTLOOP.**
+
 Latest compiled version can be found [here](https://github.com/marijuanARM/futurerestore/releases).
 
 __Only use if you are sure what you're doing.__
